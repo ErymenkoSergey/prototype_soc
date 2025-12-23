@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8364395722474988001
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4053042086636305154}
+  m_Layer: 0
+  m_Name: SofaRehab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4053042086636305154
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8364395722474988001}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8419783250846389175}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &8310176213973267548
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4053042086636305154}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 73130d85f25290b4c8b077ba79e4d2b7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 73130d85f25290b4c8b077ba79e4d2b7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -13.961515
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 73130d85f25290b4c8b077ba79e4d2b7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -9.188984
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 73130d85f25290b4c8b077ba79e4d2b7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.9774804
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 73130d85f25290b4c8b077ba79e4d2b7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 73130d85f25290b4c8b077ba79e4d2b7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 73130d85f25290b4c8b077ba79e4d2b7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 73130d85f25290b4c8b077ba79e4d2b7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 73130d85f25290b4c8b077ba79e4d2b7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 73130d85f25290b4c8b077ba79e4d2b7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 73130d85f25290b4c8b077ba79e4d2b7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 73130d85f25290b4c8b077ba79e4d2b7,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f3846630a4b033e439600dc376ccf763, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 73130d85f25290b4c8b077ba79e4d2b7,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0614a025154397e4d88b003e439831ef, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 73130d85f25290b4c8b077ba79e4d2b7,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4287dd2a024e47d45b83830a1c0000bc, type: 2}
+    - target: {fileID: 919132149155446097, guid: 73130d85f25290b4c8b077ba79e4d2b7,
+        type: 3}
+      propertyPath: m_Name
+      value: SofaRehab
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 73130d85f25290b4c8b077ba79e4d2b7, type: 3}
+--- !u!4 &8419783250846389175 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 73130d85f25290b4c8b077ba79e4d2b7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8310176213973267548}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &9192626312186677517 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 73130d85f25290b4c8b077ba79e4d2b7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8310176213973267548}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &2271132891992781165
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9192626312186677517}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 3149438759199491293, guid: 73130d85f25290b4c8b077ba79e4d2b7, type: 3}
